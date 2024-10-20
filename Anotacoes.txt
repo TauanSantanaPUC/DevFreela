@@ -1,0 +1,6 @@
+Paginar dados
+- Construindo uma experiência melhor na visualização e busca em muitos registros
+- Diminui a carga no servidor ao tratar requisições
+- Diminui a carga no front-end ao receber e gerenciar coleções muito grandes
+
+
